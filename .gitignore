@@ -51,8 +51,7 @@ wheels/
 *.egg
 
 # PyTorch
-*.pth
-*.pt
+
 # Note: .pth files are explicitly NOT ignored above
 
 # Logs
